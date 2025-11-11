@@ -1,1 +1,1 @@
-<?php header("Location: https://dwnl.screenbeam.com/resource/conference/windows/ScreenBeam_Conference_Windows_1.0.5.14.msi"); ?>
+<?php header("Location: https://dwnl.screenbeam.com/resource/conference/windows/x86/ScreenBeam_Conference_Windows_1.0.5.29.zip"); ?>
